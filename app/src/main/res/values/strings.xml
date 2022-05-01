@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackComposeSample</string>
+    <string name="msg_simple_text">Hey there! I am learning to use Simple Text in Android using Compose.</string>
+</resources>
